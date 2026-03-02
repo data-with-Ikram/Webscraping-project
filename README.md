@@ -35,7 +35,7 @@ Dans ce contexte, j’ai été missionnée pour collecter, structurer et analyse
 Ces analyses permettent à Charlemagne d’optimiser sa stratégie de prix, sa gestion des stocks et sa relation avec les éditeurs.
 
 ## Contenu du repository
-- `code/` : scripts de web scraping et de traitement des données
+- `Python_code/` : scripts de web scraping et de traitement des données
 - [Consulter le codebook (PDF)](Codebook.pdf)
 - [Consulter le compte-rendu d’analyse (PDF)](Compte-rendu_analyse.pdf)
 
